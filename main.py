@@ -1,3 +1,4 @@
+import pandas
 def print_hi():
     imie = input("podaj imie: ")
     wiek = input("podaj wiek: ")
