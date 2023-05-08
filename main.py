@@ -1,8 +1,7 @@
 
 def print_hi():
-    imie = input("podaj imie: ")
-    wiek = input("podaj wiek: ")
-    return imie, wiek
+    print("Hello World!")
+
 
 
 # Press the green button in the gutter to run the script.
