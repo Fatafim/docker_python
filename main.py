@@ -1,5 +1,5 @@
 def print_hi():
-    print("Hello World!")
+    print("Hello World! x2")
 
 
 # Press the green button in the gutter to run the script.
