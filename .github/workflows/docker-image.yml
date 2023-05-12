@@ -17,7 +17,7 @@ jobs:
     - name: Build the Docker image
       run: docker build -t fatafim/apka_1 .
     - name: docker login
-      uses: docker/login-action@1
+      uses: docker/login-action@2
       with:
         username: ${{ secrets.LOGIN }}
         password: ${{ secrets.PASSWORD }}
